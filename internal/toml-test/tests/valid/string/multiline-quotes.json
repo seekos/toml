@@ -1,4 +1,16 @@
 {
+  "escaped": {
+    "type": "string",
+    "value": "lol\"\"\""
+  },
+  "five-quotes": {
+    "type": "string",
+    "value": "Closing with five quotes\n\"\""
+  },
+  "four-quotes": {
+    "type": "string",
+    "value": "Closing with four quotes\n\""
+  },
   "lit_one": {
     "type": "string",
     "value": "'one quote'"
